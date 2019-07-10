@@ -1,0 +1,38 @@
+#tdprayla {
+  width: 10%
+}
+
+#kitten {
+  width: 25%
+}
+
+#happyrayla {
+  width: 25%
+}
+
+#softrayla {
+  width: 25%
+}
+
+#stronkrayla {
+  width: 25%
+}
+
+.blue_font {
+  color: steelblue;
+  font-family: 'Poiret One', cursive;
+}
+
+.orchid_font {
+  color: orchid;
+  font-family: 'Satisfy', cursive;
+}
+
+.violet_font {
+  color: #993dd6;
+  font-family: 'Kaushan Script', cursive;
+}
+
+body {
+  background-color: #f5ebff
+}
