@@ -1,5 +1,5 @@
 .light_blue {
-  color: rgb(0, 191, 223);
+  color: #4d4dff;
   font-family: 'Geostar', cursive;
   font-size: 500%;
   text-shadow: 3px 2px white;
@@ -18,7 +18,7 @@
 .uwu {
   margin: 0px 350px;
   width: 50%;
-  border: 3px solid LightSeaGreen;
+  border: 3px solid white;
   padding: 10px;
 }
 
@@ -103,6 +103,7 @@
   background-color: #222;
   padding: 2px 16px;
   color: white;
+  font-family: 'Geostar', cursive;
 }
 
 .row:after {
@@ -139,6 +140,6 @@ a.button {
 }
 
 body {
-  background-image: url(img/background.png);
+  background-image: url(img/city.jpg);
   background-size: contain;
 }
