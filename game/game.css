@@ -1,5 +1,5 @@
 .light_blue {
-  color: #4d4dff;
+  color: #5b4eb1;
   font-family: 'Geostar', cursive;
   font-size: 500%;
   text-shadow: 3px 2px white;
@@ -16,7 +16,7 @@
 }
 
 .uwu {
-  margin: 0px 350px;
+  margin: 0px 314px;
   width: 50%;
   border: 3px solid white;
   padding: 10px;
@@ -30,8 +30,8 @@
     position: static;
     font-family: 'Bungee Shade', cursive;
     background-color: DarkSlateBlue;
-    border: 2px solid LightSeaGreen;
-    color: LightSeaGreen;
+    border: 2px solid #89CFF0;
+    color: #89CFF0;
     border-radius: 6px;
     font-size: 50px;
     padding: 10px 24px;
@@ -128,16 +128,16 @@
   opacity: 1;
 }
 
-a.button {
+/* a.button {
     padding: 14px 40px;
-    background-color: DarkSlateBlue;
+    background-color: #4d4dff;
     text-decoration: none;
     color: rgb(0, 191, 223);
     border-radius: 8px;
     font-size: 48px;
     font-family: 'Geostar Fill', cursive;
     margin: 0px 400px;
-}
+} */
 
 body {
   background-image: url(img/city.jpg);
